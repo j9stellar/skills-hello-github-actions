@@ -19,7 +19,7 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You defined an event trigger, a job, and a step for your workflow.
 - You're ready to automate anything you can dream of.
 
-### What's next?
+### What's next2?
 
 
 1. Make a new branch named `test-workflow`.
